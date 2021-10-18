@@ -30,8 +30,8 @@ click this [link](https://www.youtube.com/playlist?list=PL8vm-YfyHoV7v6fXRz6NzOi
 
 - [Python tutorials](https://www.youtube.com/watch?v=DCYZQuOld9A&list=PL8vm-YfyHoV65xoE-oU5ltcJXPoL102-V)
 - [what is react why we need to learn that how it differs from other web development frameworks](https://www.youtube.com/watch?v=Hz3I25hmSok&list=PL8vm-YfyHoV40jcRASueLdFj4ZiI3y3LV)
-- [Problem solving tamil](https://www.youtube.com/watch?v=bwW5ZcvnFKY&list=PL8vm-YfyHoV5d0LW4d5g5eQxid695kGNK)
-- [Github tutorials](https://www.youtube.com/watch?v=y9hdQRLPzYA&list=PL8vm-YfyHoV7v6fXRz6NzOi62yFFlJY53)
+- [Problem solving tamil in a most sarcastic and easy way of teaching which will help you to understand lot about solving](https://www.youtube.com/watch?v=bwW5ZcvnFKY&list=PL8vm-YfyHoV5d0LW4d5g5eQxid695kGNK)
+- [Github tutorials beginner friendly way to know opensource and be a part of it easy way to understands the concepts](https://www.youtube.com/watch?v=y9hdQRLPzYA&list=PL8vm-YfyHoV7v6fXRz6NzOi62yFFlJY53)
 - [Problem solving english](https://www.youtube.com/watch?v=3MjqBDQR4UA&list=PL8vm-YfyHoV7ByRQg5b5vL-Pob0VanTy9)
 
 

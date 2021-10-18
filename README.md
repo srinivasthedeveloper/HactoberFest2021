@@ -16,6 +16,11 @@ The simple contribution instructions are:
 
 All the best for your Hacktoberfest Journey!
 
+# got struck don't know how to contribute/(get T-shirt) go and checkout this tutorial below
+
+[https://i1.wp.com/techweez.com/wp-content/uploads/2018/05/minion.gif](https://www.youtube.com/playlist?list=PL8vm-YfyHoV7v6fXRz6NzOi62yFFlJY53)
+click this [link](https://www.youtube.com/playlist?list=PL8vm-YfyHoV7v6fXRz6NzOi62yFFlJY53)
+
 ## How to start Contributing and pull request
 
 **1.**  Fork [this](https://github.com/srinivasthedeveloper/HactoberFest2021.git) repository.

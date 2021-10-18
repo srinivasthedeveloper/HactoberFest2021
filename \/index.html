@@ -1,0 +1,112 @@
+ 
+<!DOCTYPE html>
+<html lang="en">
+  
+<head>
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Reggae+One&display=swap" rel="stylesheet">
+  
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>challenge 1</title>
+   <link rel="stylesheet" href="style.css">
+   <link rel="stylesheet" href="prakhar.css">
+
+</head>
+
+<body>
+  <script src="challenge1.js"></script>
+  
+
+
+<div>
+ <h2>Project 1:Your age in days</h2>
+ 
+  <div class="container1">
+     <div id="clickme">
+       <button class="clickme"onclick="ageindays()">Click me</button>&nbsp;&nbsp;
+     </div>
+     <div id="reset">
+       <button class="reset" onclick="reset()">Reset</button>
+     </div>
+  </div>
+ 
+<div class="container1" ><div id="flexbox"></div></div>
+</div>
+
+<!--Project-2-Cat Generator-->
+<div class="conatiner2">
+<h2>Project 2:The Cat Generator</h2>
+<div class='catd'><button class="cat" onclick="catgenerator()">Cat Generator</button></div>
+<div class="flexbox-container2" id="flexbox-container2"> 
+</div>
+</div> 
+
+
+
+ <h2 id="changemycolor">Project 4: Change the color of all buttons</h2>
+  <div id="selectcolor" class="container4">
+    <form>
+      <select class="backdrop" id="background" onchange="buttoncolorchange(this)">
+        <option>Select</option>
+        <option value="red">Red</option>
+        <option value="green">Green</option>
+        <option value="yellow">Yellow</option>
+        <option value="random">Random</option>
+        <!--<option value="resetcolors">Reset</option>-->
+      </select>
+      
+    </form>
+   <div class="pads"><button class="btnbtn-primary">Wee!</button></div> 
+   <div class="pads"> <button class="btnbtn-danger">Yahoo!</button></div>
+   <div class="pads"> <button class="btnbtn-warning">Google!</button></div>
+   <div class="pads"><button class="btnbtn-success">Facebook!</button></div> 
+   
+  </div>
+ 
+</div>
+<!--Projext 5:blackjack-->
+<h2>Project 5: The Blackjack</h2>
+
+  
+<div><h2 class='letsplay'><span id="blackjack-result">Lets Play!</span></h2></div>
+<div>
+<div class="blackjack-row-1">
+  
+<div class="blackflex" id="your-box">YOU:<span id="your-blackjack-result">0</span><div id="queen"></div></div>
+
+ 
+<div class="blackflex" id="dealer-box">DEALER:<span id="dealer-blackjack-result">0</span><div id="queen"></div></div>
+   </div>
+
+<div class="blackjack-row-2">
+  <div>
+    <button class="clickme" id="hit1">Hit</button>
+    <button class='btnbtn-warning' id="stand">Stand</button>
+    <button class='btnbtn-danger'id="deal">Deal</button>
+  </div>
+</div>
+</div>
+<div class='blackjack-row-3'>
+  <table>
+    <tr>
+      <th>Wins</th>
+      <th>Loses</th>
+      <th>Draws</th>
+    </tr>
+    <tr>
+      <td><span id="wins">0</span></td>
+      <td><span id="loses">0</span></td>
+      <td><span id="draws">0</span></td>
+      
+    </tr>
+  </table>
+  <div>
+
+  </div>
+</div>
+
+    
+</body>
+</html>

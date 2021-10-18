@@ -18,7 +18,7 @@ All the best for your Hacktoberfest Journey!
 
 ## How to start Contributing and pull request
 
-**1.**  Fork [this](<tada>) repository.
+**1.**  Fork [this](https://github.com/srinivasthedeveloper/HactoberFest2021.git) repository.
 
 **2.**  Clone your forked copy of the project.
 
@@ -35,7 +35,7 @@ cd HacktoberFest2021
 **4.** Add a reference(remote) to the original repository.
 
 ```
-git remote add upstream <tada>
+git remote add upstream https://github.com/srinivasthedeveloper/HactoberFest2021.git
 ```
 
 **5.** Check the remotes for this repository.
